@@ -11,13 +11,13 @@ table, tr, td{
 table{
 	width:100%;
 }
-.t11{
+.left{
 	text-align:left;
 }
-.t12{
+.center{
 	text-align:center;
 }
-.t13{
+.right{
 	text-align:right;
 }
 .middle{
@@ -27,11 +27,10 @@ table{
 .table-2{
 	padding:10px;
 }
-
-table-3{
-        border: 1px solid black;
-         }
-      
+table-2{
+	border:1px solid black;
+	margin
+}
 
       .green{
         background-color: green;
